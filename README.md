@@ -191,7 +191,7 @@ fizzi/
 
 ## 📸 Screenshots
 
-![Website screenshot](./public/hero.png)
+<img alt="hero" src="./public/hero.png" />
 
 ### 🏠 Homepage
 ![Homepage](images/homepage.png)
