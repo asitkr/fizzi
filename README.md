@@ -26,6 +26,46 @@ When you're ready to start your project, run the following command:
 npm run dev
 ```
 
+
+# 🌟 Fizzi Demo
+
+Welcome to **Fizzi Demo** — a modern web application designed with scalability, performance, and clean UI in mind.  
+The project is live at 👉 **[fizzi-demo.vercel.app](https://fizzi-demo.vercel.app/)**  
+
+---
+
+## 🌐 Live Demo
+🚀 Check out the live app here:  
+👉 **[https://fizzi-demo.vercel.app/](https://fizzi-demo.vercel.app/)**  
+
+---
+
+## ✨ Features
+- ⚡ **Fast & Responsive** – Optimized for performance across all devices.  
+- 🎨 **Modern UI** – Styled with **Tailwind CSS** for a clean, elegant interface.  
+- 📱 **Mobile-First** – Works seamlessly on desktop, tablet, and mobile.  
+- 🔄 **CMS Powered** – Content managed via **Prismic + Slice Machine**.  
+- 🛠️ **Developer Friendly** – TypeScript, ESLint, Prettier, PostCSS included.  
+- ☁️ **Deployed on Vercel** – Continuous deployment for every update.  
+
+---
+
+## 🛠️ Tech Stack
+- **Framework:** [Next.js](https://nextjs.org/) + [React](https://react.dev/)  
+- **CMS:** [Prismic](https://prismic.io/) with Slice Machine  
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)  
+- **Language:** TypeScript  
+- **Linting & Formatting:** ESLint + Prettier  
+- **Deployment:** [Vercel](https://vercel.com/)  
+
+---
+
+## 📂 Folder Structure
+
+The project structure is modular and follows best practices:
+
+
+
 ## How to use your project
 
 To edit the content of this project, go to [prismic.io/dashboard](https://prismic.io/dashboard), click on the repository for this website, and start editing.
