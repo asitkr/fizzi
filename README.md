@@ -156,7 +156,7 @@ limitations under the License.
 [nextjs]: https://nextjs.org/
 [live-demo]: https://nextjs-starter-prismic-minimal.vercel.app/
 
-
+```
 fizzi/
 │
 ├── customtypes/                # Prismic Custom Types configurations
@@ -185,8 +185,7 @@ fizzi/
 ├── slicemachine.config.json     # Slice Machine configuration
 ├── tailwind.config.js           # Tailwind CSS configuration
 └── tsconfig.json                # TypeScript configuration
-
-
+```
 
 ---
 
