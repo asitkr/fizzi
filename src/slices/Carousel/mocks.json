@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Smaller"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ullamco ad aliqua ex do ullamco quis labore. Elit do enim nulla duis cillum ut dolor eiusmod sit non consectetur do cillum nulla."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
