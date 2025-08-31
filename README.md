@@ -189,21 +189,6 @@ fizzi/
 
 ---
 
-## 📸 Screenshots
-
-<img alt="hero" src="./public/hero.png" />
-
-### 🏠 Homepage
-![Homepage](images/homepage.png)
-
-### 📱 Mobile View
-![Mobile View](images/mobile.png)
-
-### 📂 Folder View
-![Folder Structure](images/folder-structure.png)
-
----
-
 ## 🚀 Getting Started
 
 Follow these steps to run locally:
