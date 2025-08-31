@@ -156,46 +156,36 @@ limitations under the License.
 [nextjs]: https://nextjs.org/
 [live-demo]: https://nextjs-starter-prismic-minimal.vercel.app/
 
-
+```
 fizzi/
 │
-├── customtypes/ # Prismic Custom Types configurations
-├── page/ # Page level components or static pages
-├── public/ # Publicly accessible assets (images, fonts, etc.)
-├── src/ # Main source code (React/Next.js components, utils)
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Application routes
-│ ├── styles/ # Global & modular styles
-│ └── utils/ # Helper functions
+├── customtypes/                # Prismic Custom Types configurations
 │
-├── .gitignore
-├── .prettierignore
-├── .prettierrc
-├── LICENSE # Apache-2.0 license
-├── README.md
-├── eslint.config.mjs
-├── next.config.ts
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-├── prismicio-types.d.ts
-├── slicemachine.config.json
-├── tailwind.config.js
-└── tsconfig.json
-
-
----
-
-## 📸 Screenshots
-
-### 🏠 Homepage
-![Homepage](images/homepage.png)
-
-### 📱 Mobile View
-![Mobile View](images/mobile.png)
-
-### 📂 Folder View
-![Folder Structure](images/folder-structure.png)
+├── page/                       # Page level components or static pages
+│
+├── public/                     # Publicly accessible assets (images, fonts, etc.)
+│
+├── src/                        # Main source code
+│   ├── components/             # Reusable UI components
+│   ├── pages/                  # Application routes (Next.js pages)
+│   ├── styles/                 # Global & modular styles
+│   └── utils/                  # Helper functions & utilities
+│
+├── .gitignore                  # Git ignore rules
+├── .prettierignore              # Prettier ignore rules
+├── .prettierrc                  # Prettier configuration
+├── LICENSE                      # Apache-2.0 license
+├── README.md                    # Project documentation
+├── eslint.config.mjs            # ESLint configuration
+├── next.config.ts               # Next.js configuration
+├── package-lock.json            # Auto-generated dependency lock file
+├── package.json                 # Project dependencies & scripts
+├── postcss.config.js            # PostCSS configuration
+├── prismicio-types.d.ts         # Generated Prismic types
+├── slicemachine.config.json     # Slice Machine configuration
+├── tailwind.config.js           # Tailwind CSS configuration
+└── tsconfig.json                # TypeScript configuration
+```
 
 ---
 
