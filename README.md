@@ -26,6 +26,46 @@ When you're ready to start your project, run the following command:
 npm run dev
 ```
 
+
+# 🌟 Fizzi Demo
+
+Welcome to **Fizzi Demo** — a modern web application designed with scalability, performance, and clean UI in mind.  
+The project is live at 👉 **[fizzi-demo.vercel.app](https://fizzi-demo.vercel.app/)**  
+
+---
+
+## 🌐 Live Demo
+🚀 Check out the live app here:  
+👉 **[https://fizzi-demo.vercel.app/](https://fizzi-demo.vercel.app/)**  
+
+---
+
+## ✨ Features
+- ⚡ **Fast & Responsive** – Optimized for performance across all devices.  
+- 🎨 **Modern UI** – Styled with **Tailwind CSS** for a clean, elegant interface.  
+- 📱 **Mobile-First** – Works seamlessly on desktop, tablet, and mobile.  
+- 🔄 **CMS Powered** – Content managed via **Prismic + Slice Machine**.  
+- 🛠️ **Developer Friendly** – TypeScript, ESLint, Prettier, PostCSS included.  
+- ☁️ **Deployed on Vercel** – Continuous deployment for every update.  
+
+---
+
+## 🛠️ Tech Stack
+- **Framework:** [Next.js](https://nextjs.org/) + [React](https://react.dev/)  
+- **CMS:** [Prismic](https://prismic.io/) with Slice Machine  
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)  
+- **Language:** TypeScript  
+- **Linting & Formatting:** ESLint + Prettier  
+- **Deployment:** [Vercel](https://vercel.com/)  
+
+---
+
+## 📂 Folder Structure
+
+The project structure is modular and follows best practices:
+
+
+
 ## How to use your project
 
 To edit the content of this project, go to [prismic.io/dashboard](https://prismic.io/dashboard), click on the repository for this website, and start editing.
@@ -115,3 +155,108 @@ limitations under the License.
 [prismic-sign-up]: https://prismic.io/dashboard/signup
 [nextjs]: https://nextjs.org/
 [live-demo]: https://nextjs-starter-prismic-minimal.vercel.app/
+
+
+fizzi/
+│
+├── customtypes/ # Prismic Custom Types configurations
+├── page/ # Page level components or static pages
+├── public/ # Publicly accessible assets (images, fonts, etc.)
+├── src/ # Main source code (React/Next.js components, utils)
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Application routes
+│ ├── styles/ # Global & modular styles
+│ └── utils/ # Helper functions
+│
+├── .gitignore
+├── .prettierignore
+├── .prettierrc
+├── LICENSE # Apache-2.0 license
+├── README.md
+├── eslint.config.mjs
+├── next.config.ts
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── prismicio-types.d.ts
+├── slicemachine.config.json
+├── tailwind.config.js
+└── tsconfig.json
+
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](images/homepage.png)
+
+### 📱 Mobile View
+![Mobile View](images/mobile.png)
+
+### 📂 Folder View
+![Folder Structure](images/folder-structure.png)
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/fizzi.git
+cd fizzi
+
+# Install dependencies
+npm install
+# or
+yarn install
+
+# Start the development server
+npm run dev
+# or
+yarn dev
+
+# Open in browser
+http://localhost:3000
+
+📦 Deployment
+
+The app is hosted on Vercel.
+Each push to the main branch triggers an automatic deployment.
+
+Live Deployment 👉 fizzi-demo.vercel.app
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repo
+
+Create your feature branch: git checkout -b feature/new-feature
+
+Commit changes: git commit -m 'Add new feature'
+
+Push to branch: git push origin feature/new-feature
+
+Open a Pull Request 🎉
+
+📜 License
+
+This project is licensed under the Apache-2.0 License.
+See the LICENSE
+ file for details.
+
+👨‍💻 Author
+
+Developed with ❤️ by Ashit
+
+
+
+---
+
+⚡ Suggestion: If you send me a couple of **screenshots of your app**, I can add them into the README properly with captions and placeholders already replaced.  
+
+Do you want me to also design a **badges section** (like build status, license, framework logos) at the top for a more professional GitHub look?
+
