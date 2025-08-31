@@ -251,3 +251,12 @@ See the LICENSE
 👨‍💻 Author
 
 Developed with ❤️ by Ashit
+
+
+
+---
+
+⚡ Suggestion: If you send me a couple of **screenshots of your app**, I can add them into the README properly with captions and placeholders already replaced.  
+
+Do you want me to also design a **badges section** (like build status, license, framework logos) at the top for a more professional GitHub look?
+
